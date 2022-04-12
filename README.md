@@ -14,7 +14,7 @@ Exercices a réaliser:
 
 [X] 5. [Fake Excuse Notes Generator]
 
-6. [Arrays]
+[X]6. [Arrays]
 
 7. [Loops]
 
