@@ -14,10 +14,10 @@ Exercices a réaliser:
 
 [X] 5. [Fake Excuse Notes Generator]
 
-[X]6. [Arrays]
+[X] 6. [Arrays]
 
-7. [Loops]
+[X] 7. [Loops]
 
-8. [Functions]
+[X] 8. [Functions]
 
-9. [Form]
+[X] 9. [Form]
